@@ -1,3 +1,5 @@
+> about how to use git and GitHub
+
 # git
 
 분산 버전 관리 도구
