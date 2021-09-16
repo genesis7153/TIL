@@ -81,6 +81,8 @@ git에서 특정 버전으로 남긴다 = commit(커밋)한다. 3가지 영역�
 - 클론으로 생성되한 디렉터리는 이미 연결이 되어 있는 상태이기때문에
 - remote add 안해도 된다. 바로 git push origin master 하면 된다.
 
+---
+
 ## TIL(Today I Learned)
 
 - 신입 개발자에게 요구되는 가장 큰 능력! 꾸준히 학습할 수 있나요?
